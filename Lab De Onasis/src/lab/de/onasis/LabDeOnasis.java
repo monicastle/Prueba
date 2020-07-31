@@ -17,7 +17,14 @@ public class LabDeOnasis {
     public static void main(String[] args) {
         // TODO code application logic her
         // Hola Onasis
-        int num;
+        int num = 0;
+        // Holaaaaa
+        // QQUE ONDASS
+        switch(num){
+            case 1:
+            case 2:
+            default:
+        }
         //
     }
     
